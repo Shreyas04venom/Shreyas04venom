@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**Shreyas04venom/Shreyas04venom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
-
 # 💫 About Me:
 I am a Computer Engineering student with a strong academic record (CGPA 9.05), currently working towards becoming a Software Engineer. I have a solid foundation in Data Structures, Java, C++, Python, and SQL, along with experience in frontend development using HTML, CSS, JavaScript, React, and Tailwind.
 
