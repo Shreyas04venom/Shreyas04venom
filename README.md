@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--
+
 **Shreyas04venom/Shreyas04venom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
+
 # 💫 About Me:
 I am a Computer Engineering student with a strong academic record (CGPA 9.05), currently working towards becoming a Software Engineer. I have a solid foundation in Data Structures, Java, C++, Python, and SQL, along with experience in frontend development using HTML, CSS, JavaScript, React, and Tailwind.
 
@@ -30,13 +31,3 @@ I am a Computer Engineering student with a strong academic record (CGPA 9.05), c
 ---
 [![](https://visitcount.itsvg.in/api?id=Shreyas04venom&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
