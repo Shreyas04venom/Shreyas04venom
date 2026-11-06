@@ -1,28 +1,138 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-I am a Computer Engineering student with a strong academic record (CGPA 9.05), currently working towards becoming a Software Engineer. I have a solid foundation in Data Structures, Java, C++, Python, and SQL, along with experience in frontend development using HTML, CSS, JavaScript, React, and Tailwind.
+<img src="assets/shreyas-hero.svg" alt="Shreyas Mahajan. Computer Engineering student, AI/ML and full-stack developer." width="100%">
 
+<br>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shreyasmahajan3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyasmahajan844) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-mahajan07) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shreyasmahajan0306) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasmahajan0306@gmail.com) 
+<a href="https://github.com/Shreyas04venom"><img src="assets/social-github.svg" alt="GitHub" height="44"></a>
+<a href="https://linkedin.com/in/shreyas-mahajan07"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="44"></a>
+<a href="https://behance.net/shreyasmahajan3"><img src="assets/social-behance.svg" alt="Behance" height="44"></a>
+<a href="https://portfolio-ten-green-cfc13id4x9.vercel.app"><img src="assets/social-portfolio.svg" alt="Portfolio" height="44"></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreyas04venom&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shreyas04venom&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas04venom&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shreyas04venom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="assets/section-profile.svg" alt="Profile" width="100%">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shreyas04venom&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Engineering intelligent experiences at the intersection of AI, software and creative technology.
 
----
-[![](https://visitcount.itsvg.in/api?id=Shreyas04venom&icon=4&color=0)](https://visitcount.itsvg.in)
+I'm a Computer Engineering student at FRCRCE, Mumbai (B.Tech, CGPA 9.14), and I like problems where the model is only half the work.
+A salon marketplace has to manage schedules and payments before its AR try-on matters. A voice assistant has to check its claims against evidence before it speaks. A classroom tool for deaf students has to be validated with the people it is built for.
 
+**What I'm working on right now**
+
+- **Grounded generation.** Hybrid retrieval with pgvector and BM25, fused by Reciprocal Rank Fusion, plus claim verification on every answer.
+- **Real-time vision in the browser.** MediaPipe Face Mesh, TensorFlow.js and Three.js for live landmark tracking and AR.
+- **Full-stack TypeScript.** Next.js and TanStack Start on Supabase, deployed on Vercel.
+- **Interface craft.** Figma, motion design and WebGL, because how a product feels is part of whether it works.
+
+<br>
+
+<img src="assets/section-work.svg" alt="Selected work" width="100%">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Shreyas04venom/CuraStyl"><img src="assets/project-curastyl.svg" alt="CuraStyl: hyperlocal salon booking with in-browser AR try-on" width="100%"></a>
+<br><b>CuraStyl</b><br>
+Hyperlocal salon booking marketplace with real-time scheduling, role-based access, an in-browser 3D AR try-on driven by MediaPipe Face Mesh landmarks, and a Gemini styling consultant.<br>
+<sub>Next.js / TypeScript / Supabase / MediaPipe / Three.js / Gemini</sub><br>
+<a href="https://github.com/Shreyas04venom/CuraStyl">Repository</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Shreyas04venom/RAG"><img src="assets/project-edith.svg" alt="Edith: voice RAG assistant that verifies its own claims" width="100%"></a>
+<br><b>Edith</b><br>
+Voice-enabled RAG assistant. Dense embeddings and BM25 are fused with Reciprocal Rank Fusion over pgvector, answers are checked for claim grounding, and replies are spoken back with low-latency TTS.<br>
+<sub>TanStack Start / Supabase pgvector / Gemini / Whisper / TTS</sub><br>
+<a href="https://github.com/Shreyas04venom/RAG">Repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Shreyas04venom/silence"><img src="assets/project-silence.svg" alt="Silence: accessible classroom learning for deaf students" width="100%"></a>
+<br><b>Silence</b><br>
+AI platform that makes classrooms more accessible for deaf students, with automated pipelines for content, captions and multimodal learning. Validated through field research.<br>
+<sub>React / Next.js / Supabase / Gemini API</sub><br>
+<a href="https://github.com/Shreyas04venom/silence">Repository</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Shreyas04venom/SIH26006"><img src="assets/project-astra.svg" alt="ASTRA: maritime decision engine for bulk cargo routes" width="100%"></a>
+<br><b>ASTRA</b><br>
+Maritime decision and intelligence engine for bulk cargo moving from overseas ports to India's east coast: cargo wizard, route and port intelligence, vessel matching and freight forecasting.<br>
+<sub>React / Express / Recharts / Leaflet / Tailwind CSS</sub><br>
+<a href="https://github.com/Shreyas04venom/SIH26006">Repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Shreyas04venom/taxwise"><img src="assets/project-taxwise.svg" alt="TaxWise: conversational GST and tax explainer" width="100%"></a>
+<br><b>TaxWise</b><br>
+Chatbot-style assistant that explains GST and tax concepts to students and beginners. Python FastAPI backend with a React and TypeScript front end.<br>
+<sub>React / TypeScript / FastAPI / Supabase</sub><br>
+<a href="https://github.com/Shreyas04venom/taxwise">Repository</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://portfolio-ten-green-cfc13id4x9.vercel.app"><img src="assets/project-portfolio.svg" alt="3D Portfolio: interactive Three.js developer portfolio" width="100%"></a>
+<br><b>3D Portfolio</b><br>
+Interactive developer portfolio with React Three Fiber scenes, Framer Motion transitions, a visual timeline and an EmailJS contact form.<br>
+<sub>React / Three.js / Framer Motion / Vite</sub><br>
+<a href="https://github.com/Shreyas04venom/portfolio">Repository</a> / <a href="https://portfolio-ten-green-cfc13id4x9.vercel.app">Live demo</a>
+</td>
+</tr>
+</table>
+
+**Also in the lab:**
+[OrgMind](https://github.com/Shreyas04venom/orgMind), an enterprise knowledge copilot prototype with Supabase auth and a knowledge-search edge function.
+[RaagWeather](https://github.com/Shreyas04venom/raag-vibe-canvas), weather-driven music discovery with a working front end.
+[Hacker House Builder Pass](https://github.com/Shreyas04venom/hacker-house), a client-side canvas generator for builder ID cards.
+
+<br>
+
+<img src="assets/section-stack.svg" alt="Stack" width="100%">
+
+<img src="assets/stack.svg" alt="Technology stack. Languages: C, C++, Java, Python, JavaScript, TypeScript, HTML, CSS, SQL. Interface and 3D: React, Next.js, Vite, Tailwind CSS, Three.js, TanStack, Leaflet. Server and data: Node.js, Express, FastAPI, Supabase, PostgreSQL, Firebase, Docker. Applied AI: Gemini, OpenAI API, TensorFlow, MediaPipe, NumPy, Pandas, Jupyter, RAG. Workflow: Git, GitHub, Figma, Vercel." width="100%">
+
+<br>
+
+<img src="assets/section-record.svg" alt="Record" width="100%">
+
+<img src="assets/record.svg" alt="Newest first. B.Tech Computer Engineering at FRCRCE, 2024 to now, CGPA 9.14. Deloitte Australia Technology Job Simulation on Forage, December 2025. Deloitte Australia Cyber Job Simulation on Forage, June to July 2025. Tax-Wise AI qualified hackathon Round 1, 2025. Short courses from HP LIFE, Simplilearn and Intellipaat. Computerised Accounting with GST, July 2022, grade A. INSPIRE Awards MANAK, February 2021, advanced to district level. NCC A Certificate Grade A, January 2021. Intermediate Drawing Examination Grade A, November 2019." width="100%">
+
+<br>
+
+<img src="assets/section-activity.svg" alt="Activity" width="100%">
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/C77B9B/Shreyas04venom" alt="GitHub contribution heatmap for Shreyas04venom" width="100%">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Shreyas04venom&hide_border=true&background=190B12&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7&sideLabels=C77B9B&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=C77B9B" alt="GitHub contribution streak for Shreyas04venom" height="165">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyas04venom&show_icons=true&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&ring_color=C77B9B&include_all_commits=true" alt="GitHub statistics for Shreyas04venom" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas04venom&layout=compact&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3" alt="Most used languages across public repositories" height="165">
+
+<sub>Live data from public GitHub APIs via third-party services. Nothing on this page is hard-coded.</sub>
+
+</div>
+
+<br>
+
+<img src="assets/section-connect.svg" alt="Connect" width="100%">
+
+<div align="center">
+
+<a href="https://github.com/Shreyas04venom"><img src="assets/social-github.svg" alt="GitHub" height="44"></a>
+<a href="https://linkedin.com/in/shreyas-mahajan07"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="44"></a>
+<a href="https://behance.net/shreyasmahajan3"><img src="assets/social-behance.svg" alt="Behance" height="44"></a>
+<a href="https://portfolio-ten-green-cfc13id4x9.vercel.app"><img src="assets/social-portfolio.svg" alt="Portfolio" height="44"></a>
+
+<br><br>
+
+<img src="assets/shreyas-footer.svg" alt="Built with curiosity. Engineered with intent. Shreyas Mahajan." width="100%">
+
+</div>
