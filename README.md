@@ -1,3 +1,268 @@
-## Hi there 👋 
-# 💫 About Me: I am a Computer Engineering student with a strong academic record (CGPA 9.05), currently working towards becoming a Software Engineer. I have a solid foundation in Data Structures, Java, C++, Python, and SQL, along with experience in frontend development using HTML, CSS, JavaScript, React, and Tailwind. 
-## 🌐 Socials: [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shreyasmahajan3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyasmahajan844) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-mahajan07) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shreyasmahajan0306) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasmahajan0306@gmail.com) # 💻 Tech Stack: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) # 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Shreyas04venom&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Shreyas04venom&theme=onedark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas04venom&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=Shreyas04venom&theme=radical&no-frame=false&no-bg=true&margin-w=4) ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=Shreyas04venom&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=Shreyas04venom&icon=4&color=0)](https://visitcount.itsvg.in)
+ <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:10070C,25:190B12,60:451126,100:701A3D&text=SHREYAS%20MAHAJAN&fontSize=58&fontColor=F8F0F3&fontAlignY=40&desc=ENGINEERING%20INTELLIGENCE.%20DESIGNING%20EXPERIENCES.&descSize=13&descAlignY=60&descColor=E5B5C7&animation=fadeIn&stroke=C77B9B&strokeWidth=1" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=C77B9B&center=true&vCenter=true&width=800&lines=AI+%2F+ML+ENTHUSIAST;FULL-STACK+DEVELOPER;CREATIVE+TECHNOLOGIST;BUILDING+IDEAS+INTO+REALITY;CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE" />
+
+<br/>
+
+<a href="https://github.com/Shreyas04venom">
+<img src="https://img.shields.io/badge/GITHUB-Shreyas04venom-451126?style=for-the-badge&logo=github&logoColor=F8F0F3"/>
+</a>
+<img src="https://img.shields.io/badge/BASED_IN-INDIA-190B12?style=for-the-badge&logo=googlemaps&logoColor=C77B9B"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ENGINEERING-701A3D?style=for-the-badge&logo=probot&logoColor=white"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-C77B9B?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-mahajan07)
+[![Behance](https://img.shields.io/badge/BEHANCE-Explore-451126?style=flat-square&logo=behance&logoColor=white)](https://behance.net/shreyasmahajan3)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-701A3D?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shreyasmahajan844)
+[![Email](https://img.shields.io/badge/EMAIL-Let's%20Talk-190B12?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyasmahajan0306@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 01 — BEYOND THE CODE
+
+### I BUILD. I EXPERIMENT. I ENGINEER.
+
+</div>
+
+Hey! I'm **Shreyas Mahajan**, a Computer Engineering student at **Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Mumbai**.
+
+I'm interested in building at the intersection of **Artificial Intelligence, Full-Stack Engineering, and Creative Technology.**
+
+From developing AI-powered applications and intelligent RAG systems to crafting immersive frontend experiences, I love turning ambitious ideas into products that solve actual problems.
+
+- 🧠 Exploring Artificial Intelligence, Machine Learning & Generative AI.
+- ⚡ Building full-stack applications and intelligent systems.
+- 🎨 Exploring UI/UX, creative development & interactive experiences.
+- ☁️ Experimenting with cloud infrastructure and deployment.
+- 🔬 Learning by building, breaking, and rebuilding things.
+
+<br/>
+
+<div align="center">
+
+*"Great software isn't just functional. It creates an experience."*
+
+</div>
+
+---
+
+<div align="center">
+
+## 02 — THE ENGINEERING STACK
+
+*Tools are instruments. Ideas are the architecture.*
+
+</div>
+
+### `01 / PROGRAMMING LANGUAGES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css&theme=dark" />
+</p>
+
+### `02 / FRONTEND & CREATIVE DEVELOPMENT`
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,threejs,figma&theme=dark" />
+</p>
+
+### `03 / BACKEND & DATABASES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mysql,postgres,mongodb,supabase,firebase&theme=dark" />
+</p>
+
+### `04 / AI, DATA & MACHINE LEARNING`
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas,matplotlib&theme=dark" />
+</p>
+
+### `05 / CLOUD, DEVOPS & DEVELOPMENT TOOLS`
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,git,github,postman,docker,linux,vscode&theme=dark" />
+</p>
+
+### `06 / DESIGN & VISUAL TECHNOLOGY`
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,blender,canva&theme=dark" />
+</p>
+
+---
+
+<div align="center">
+
+## 03 — SELECTED ENGINEERING PROJECTS
+
+*Ideas deserve to become real products.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✦ CURASTYL
+
+**AI × WEBAR × MARKETPLACE**
+
+An AI-enabled hyperlocal salon marketplace exploring virtual try-on experiences and intelligent beauty discovery.
+
+`Next.js` `MediaPipe` `Gemini` `Supabase`
+
+<a href="https://curastyl-vcet.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE_LIVE_PROJECT-701A3D?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ NEIGHBOURAI
+
+**AI × HYPERLOCAL × RAG**
+
+A hyperlocal WhatsApp assistant concept designed to connect communities with useful local information.
+
+`Python` `FastAPI` `Gemini` `Supabase` `pgvector`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✦ SILENCE
+
+**ACCESSIBILITY × TECHNOLOGY**
+
+A project focused on making classroom experiences more accessible for deaf students.
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ TAXWISE
+
+**SOFTWARE × PROBLEM SOLVING**
+
+A software project exploring tax-related workflows and digital solutions.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✦ SCHOLARSHIP MANAGEMENT
+
+**JAVA × APPLICATION DEVELOPMENT**
+
+A Java-based dashboard project focused on scholarship management.
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ ORGMIN
+
+**JAVA × SOFTWARE ENGINEERING**
+
+A Java project developed as part of my application development journey.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Shreyas04venom?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-451126?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 04 — GITHUB ANALYTICS
+
+*Consistency is built one commit at a time.*
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreyas04venom&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3&ring_color=701A3D" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Shreyas04venom&hide_border=true&background=10070C&ring=701A3D&fire=C77B9B&currStreakLabel=E5B5C7&sideLabels=E5B5C7&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=C77B9B" />
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas04venom&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&langs_count=8"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas04venom&bg_color=10070C&color=E5B5C7&line=701A3D&point=C77B9B&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20JOURNEY"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyas04venom&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 05 — BEYOND THE TERMINAL
+
+### A LITTLE BIT OF CREATIVE CHAOS.
+
+<a href="https://behance.net/shreyasmahajan3">
+<img src="https://img.shields.io/badge/BEHANCE-CREATIVE_WORKS-451126?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://pinterest.com/shreyasmahajan0306">
+<img src="https://img.shields.io/badge/PINTEREST-INSPIRATION-701A3D?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shreyas-mahajan07">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-190B12?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### CURRENT PHILOSOPHY
+
+`Think deeply.` `Build fearlessly.` `Design intentionally.`
+
+</div>
+
+---
+
+<div align="center">
+
+## 06 — LET'S BUILD SOMETHING.
+
+**Have an interesting idea, collaboration, or opportunity?**
+
+I'm always open to connecting with people who love technology, creativity, and building meaningful things.
+
+<a href="mailto:shreyasmahajan0306@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_COLLABORATE-C77B9B?style=for-the-badge&logo=gmail&logoColor=10070C"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:701A3D,50:451126,100:10070C&height=130&section=footer&animation=fadeIn"/>
+
+<sub>DESIGNED WITH INTENT · ENGINEERED WITH CURIOSITY · BUILT BY SHREYAS</sub>
+
+<br/>
+
+<sub>© SHREYAS MAHAJAN · KEEP BUILDING.</sub>
+
+</div>
